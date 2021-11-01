@@ -1,5 +1,5 @@
 def calc_vat(amount):
-    return amount * 1.18
+    return amount * 1.17
 
 def calc_tax(salary):
     if salary < 5000:
